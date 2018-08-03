@@ -1,0 +1,126 @@
+{
+	"imprimir": [{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "i",
+		"valor": "ESTAB. : OFICINA LIMA"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"valor": ""
+	},
+	{
+		"tipo": "matriz",
+		"tam": "p",
+		"valor": [["TERM.",
+		"HORA",
+		"FECHA",
+		"OPERACION"]],
+		"longitud": ["5",
+		"5",
+		"10",
+		"9"],
+		"align": ["i",
+		"i",
+		"i",
+		"i"]
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "d",
+		"valor": "********************************"
+	},
+	{
+		"tipo": "matriz",
+		"tam": "p",
+		"valor": [["00001",
+		"13:37",
+		"01/02/2017",
+		2236]],
+		"longitud": ["5",
+		"5",
+		"10",
+		"9"],
+		"align": ["i",
+		"i",
+		"i",
+		"d"]
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"valor": ""
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "c",
+		"valor": "DEPOSITO EFECTIVO"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"valor": ""
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "i",
+		"valor": "C.ABONO:0011-0241-0199016327"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "i",
+		"valor": "TITULAR:JORDAN REQUENA MIRTHA"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"valor": ""
+	},
+	{
+		"tipo": "formulario",
+		"tam": "p",
+		"clave": ["IMPORTE",
+		"ITF"],
+		"valor": ["S/88.00",
+		"S/0.00"]
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "i",
+		"valor": "REF.    :888"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"valor": ""
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "i",
+		"valor": "ATENCION AL CLIENTE: 01-5950000"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "i",
+		"valor": "CLA.VAL:BS02/J5/00001/2236"
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"valor": ""
+	},
+	{
+		"tipo": "linea",
+		"tam": "p",
+		"align": "d",
+		"valor": "CLIENTE"
+	}]
+}
